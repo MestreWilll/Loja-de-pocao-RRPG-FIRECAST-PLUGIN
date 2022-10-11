@@ -2,5 +2,7 @@
 
 <form formType="sheetTemplate" dataType="Loja_pocao_aqui" 
      title="Loja_de_Pocao" name="Loja_Para_Pocao">
-
+    
+       <import file="Loja.xml"/>
+        
 </form>
